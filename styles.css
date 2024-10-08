@@ -51,6 +51,10 @@ section:nth-child(even) {
     background-color: #f8f8f8;
 }
 
+.section__title {
+    margin-bottom: 20px;
+}
+
 /* NAVIGATION BAR */
 
 nav {

@@ -259,6 +259,7 @@ nav {
     max-width: 550px;
     z-index: 3;
     opacity: 0;
+    transition: opacity 300ms;
 }
 
 .project__description--title {
